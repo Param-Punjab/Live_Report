@@ -12,7 +12,7 @@
 
 ---
 ---
-## [August 9, 2024](#08-09-2024[Starting_Vim_Tutorial])
+## [August 9, 2024](#09-08-2024[Starting_Vim_Tutorial])
 ## [August 10, 2024](#10-08-2024[Completed_Vim_Tutorial])
 ---
 ## 09-08-2024[Starting_Vim_Tutorial] 
@@ -127,7 +127,7 @@
 
 ---
 
-## August 10, 2024 - Completed Vim Tutorial 
+## 10-08-2024[Completed_Vim_Tutorial]
 
 #### **10:31 - Revising Yesterday's Content**
 - **Activity:** Began by revisiting Lessons 1 and 2 from the previous day (August 9). This revision focused on:
