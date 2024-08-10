@@ -1,7 +1,4 @@
----
-# Live Report: VIM Tutor Progress
-**Date:** August 9, 2024  
-**System Information:**
+# **System Information:**
 - **OS Name:** Kali GNU/Linux Rolling
 - **OS Type:** 64-bit
 - **Distributor:** Debian
