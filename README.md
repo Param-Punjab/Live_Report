@@ -13,7 +13,7 @@
 ---
 ---
 ## [August 9, 2024](#august-9-2024)
-## [August 10, 2024 - Vim Tutorial Detailed Report](#august-10-2024-vim-tutorial-detailed-report)
+[Go to August 10, 2024 - Vim Tutorial Detailed Report](#august-10-2024-vim-tutorial-detailed-report)
 ---
 
 **Time: 20:30**
