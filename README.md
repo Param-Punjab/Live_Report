@@ -12,10 +12,10 @@
 
 ---
 ---
-## [August 9, 2024](#august-9-2024)
+## [August 9, 2024](#08-09-2024-Starting_Vim_Tutorial)
 [Go to August 10, 2024 - Vim Tutorial Detailed Report](#august-10-2024-vim-tutorial-detailed-report)
 ---
-## August 9, 2024 - Starting Vim Tutorial 
+## 08-09-2024-Starting_Vim_Tutorial 
 **Time: 20:30**
 - **Activity:** Initiated vimtutor version 1.7.
 - **Details:** On the welcome page, VIM was introduced as a versatile and powerful text editor. The tutorial highlighted the importance of practicing commands on a copy of the text to prevent unintended modifications. It advised using the "J" key to move downwards in the editor, which would be the first key learned for navigation.
