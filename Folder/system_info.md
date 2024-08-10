@@ -7,4 +7,6 @@
 - **CPU:** Intel Core™ i3 CPU 540 @ 3.07GHz x 4
 - **Memory:** 5.7 GB
 - **GPU:** AMD Caicos (1.0 GB)
+
+
 ---
