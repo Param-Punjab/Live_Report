@@ -15,7 +15,7 @@
 ## [August 9, 2024](#august-9-2024)
 [Go to August 10, 2024 - Vim Tutorial Detailed Report](#august-10-2024-vim-tutorial-detailed-report)
 ---
-
+## August 9, 2024 - Starting Vim Tutorial 
 **Time: 20:30**
 - **Activity:** Initiated vimtutor version 1.7.
 - **Details:** On the welcome page, VIM was introduced as a versatile and powerful text editor. The tutorial highlighted the importance of practicing commands on a copy of the text to prevent unintended modifications. It advised using the "J" key to move downwards in the editor, which would be the first key learned for navigation.
@@ -127,7 +127,7 @@
 
 ---
 
-## August 10, 2024 - Vim Tutorial Detailed Report
+## August 10, 2024 - Completed Vim Tutorial 
 
 #### **10:31 - Revising Yesterday's Content**
 - **Activity:** Began by revisiting Lessons 1 and 2 from the previous day (August 9). This revision focused on:
